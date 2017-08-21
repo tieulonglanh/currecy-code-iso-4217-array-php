@@ -1,5 +1,5 @@
 <?php
-[
+$currencies =[
     "AED" => "United Arab Emirates Dirham",
     "AFN" => "Afghanistan Afghani",
     "ALL" => "Albania Lek",
@@ -161,5 +161,5 @@
     "YER" => "Yemen Rial",
     "ZAR" => "South Africa Rand",
     "ZMW" => "Zambia Kwacha",
-    "ZWD" => "Zimbabwe Dollar",
+    "ZWD" => "Zimbabwe Dollar"
 ?>
